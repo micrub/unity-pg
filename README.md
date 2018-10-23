@@ -1,6 +1,6 @@
-# Another grave yard of samples around *Unity Game engine*
+# Another grave yard of samples around *Unity Game Engine (2017)*
 
-## My start environment
+## My environment info
 
 ### Hardware and OS
 
@@ -27,7 +27,14 @@ Linux micr-ThinkPad-X1 4.4.0-130-generic #156-Ubuntu SMP Thu Jun 14 08:53:28 UTC
 ```
 ### Unity Editor
 
-#### Version (copied from content of Editor's window, that beeing triggered by *Help > About Unity*)
+#### Version
+
+Following content have been copied from Unity Editor's window, that have been triggered by following menu actions:
+
+* Help
+  * About Unity
+
+In my case following is rendered:
 
 > Version 2017.2.0f3 (ee86734cf592) Personal
 > Thu, 12 Oct 2017 13:32:44 GMT
