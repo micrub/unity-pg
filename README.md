@@ -37,6 +37,6 @@ Following content have been copied from Unity Editor's window, that have been tr
 In my case following is rendered:
 
 > Version 2017.2.0f3 (ee86734cf592) Personal
-> Thu, 12 Oct 2017 13:32:44 GMT
-> Branch: 2017.2/linux/editor
+  Thu, 12 Oct 2017 13:32:44 GMT
+  Branch: 2017.2/linux/editor
 
